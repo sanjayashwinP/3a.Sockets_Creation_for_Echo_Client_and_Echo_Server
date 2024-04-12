@@ -1,5 +1,5 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## NAME:SANJAY AHWIN P
+## NAME:SANJAY ASHWIN P
 ## REG NO:212223040181
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
